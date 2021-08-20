@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "721056501410",
+    "firebase_url": "https://test-a3aa2.firebaseio.com",
+    "project_id": "test-a3aa2",
+    "storage_bucket": "test-a3aa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721056501410:android:3fd830f063499898f391fb",
+        "android_client_info": {
+          "package_name": "com.example.collector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721056501410-fv84flu720s80cu8qfaanbe0cs4kt85l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtCWPkZIcqoL7gopPfeaBbKIWWYUMhG1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721056501410-fv84flu720s80cu8qfaanbe0cs4kt85l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721056501410:android:73c88cc1d2bc6971f391fb",
+        "android_client_info": {
+          "package_name": "com.sleyapps.col"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721056501410-fv84flu720s80cu8qfaanbe0cs4kt85l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtCWPkZIcqoL7gopPfeaBbKIWWYUMhG1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721056501410-fv84flu720s80cu8qfaanbe0cs4kt85l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721056501410:android:187a72572a5b13b0f391fb",
+        "android_client_info": {
+          "package_name": "com.sleytronics.flutter_store_timestamp_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721056501410-fv84flu720s80cu8qfaanbe0cs4kt85l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtCWPkZIcqoL7gopPfeaBbKIWWYUMhG1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721056501410-fv84flu720s80cu8qfaanbe0cs4kt85l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
